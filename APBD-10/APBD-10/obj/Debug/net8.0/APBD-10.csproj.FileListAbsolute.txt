@@ -136,3 +136,14 @@ C:\Users\Maciek\Desktop\APBD\APBD-12\APBD-10\APBD-10\obj\Debug\net8.0\refint\APB
 C:\Users\Maciek\Desktop\APBD\APBD-12\APBD-10\APBD-10\obj\Debug\net8.0\APBD-10.pdb
 C:\Users\Maciek\Desktop\APBD\APBD-12\APBD-10\APBD-10\obj\Debug\net8.0\APBD-10.genruntimeconfig.cache
 C:\Users\Maciek\Desktop\APBD\APBD-12\APBD-10\APBD-10\obj\Debug\net8.0\ref\APBD-10.dll
+C:\Users\Maciek\Desktop\APBD\APBD-11\APBD-10\APBD-10\obj\Debug\net8.0\APBD-10.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\APBD\APBD-11\APBD-10\APBD-10\obj\Debug\net8.0\APBD-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\APBD\APBD-11\APBD-10\APBD-10\obj\Debug\net8.0\APBD-10.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\APBD\APBD-11\APBD-10\APBD-10\obj\Debug\net8.0\APBD-10.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\APBD\APBD-11\APBD-10\APBD-10\obj\Debug\net8.0\APBD-10.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\APBD\APBD-11\APBD-10\APBD-10\obj\Debug\net8.0\APBD-10.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maciek\Desktop\APBD\APBD-11\APBD-10\APBD-10\obj\Debug\net8.0\APBD-10.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maciek\Desktop\APBD\APBD-11\APBD-10\APBD-10\obj\Debug\net8.0\APBD-10.sourcelink.json
+C:\Users\Maciek\Desktop\APBD\APBD-11\APBD-10\APBD-10\obj\Debug\net8.0\APBD-10.dll
+C:\Users\Maciek\Desktop\APBD\APBD-11\APBD-10\APBD-10\obj\Debug\net8.0\refint\APBD-10.dll
+C:\Users\Maciek\Desktop\APBD\APBD-11\APBD-10\APBD-10\obj\Debug\net8.0\APBD-10.pdb
